@@ -163,48 +163,48 @@
 .como__se__juega {
     width: 100%;
     max-width: 100%;
-    background-image: url(./images/como-se-juega-sudoku-bg-desktop.png);
+    background-image: url(../images/como-se-juega-sudoku-bg-desktop.png);
     background-size: cover;
     margin-bottom: 0;
 }
 
 .como__se__juega.english {
-    background-image: url(./images/como-se-juega.png);
+    background-image: url(../images/como-se-juega.png);
     width: 100%;
     max-width: 100%;
     background-size: cover;
 }
 
 .como__se__juega.aleman{
-    background-image: url(./images/como-se-juega-sudoku-bg-aleman.png);
+    background-image: url(../images/como-se-juega-sudoku-bg-aleman.png);
     width: 100%;
     max-width: 100%;
     background-size: cover;
 }
 
 .como__se__juega.chino{
-    background-image: url(./images/como-se-juega-sudoku-bg-chino.png);
+    background-image: url(../images/como-se-juega-sudoku-bg-chino.png);
     width: 100%;
     max-width: 100%;
     background-size: cover;
 }
 
 .como__se__juega.coreano{
-    background-image: url(./images/como-se-juega-sudoku-bg-coreano.png);
+    background-image: url(../images/como-se-juega-sudoku-bg-coreano.png);
     width: 100%;
     max-width: 100%;
     background-size: cover;
 }
 
 .como__se__juega.frances{
-    background-image: url(./images/como-se-juega-sudoku-bg-frances.png);
+    background-image: url(../images/como-se-juega-sudoku-bg-frances.png);
     width: 100%;
     max-width: 100%;
     background-size: cover;
 }
 
 .como__se__juega.portugues{
-    background-image: url(./images/como-se-juega-sudoku-bg-portugues.png);
+    background-image: url(../images/como-se-juega-sudoku-bg-portugues.png);
     width: 100%;
     max-width: 100%;
     background-size: cover;
@@ -246,7 +246,7 @@
 /* Banner  premios */
 
 .banner__premios{
-    background: url(./images/bg-premios.jpg);
+    background: url(../images/bg-premios.jpg);
     background-size: cover;
     background-position: center center;
     padding: 20px 0;
